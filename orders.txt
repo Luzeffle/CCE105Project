@@ -1,0 +1,45 @@
+0001: Order Items
+  Food Code: B1
+  Meal Name: Yumburger
+Sprite (Small)
+Chocolate Pie
+  Price: ₱ 148.00
+  Quantity: 1
+  Food Code: B3
+  Meal Name: Whopper
+Mountain Dew (Medium)
+Chocolate Fudge
+  Price: ₱ 258.00
+  Quantity: 1
+  Total Price: 406.00
+  Status: In Progress
+
+0002: Order Items
+  Food Code: B1
+  Meal Name: Yumburger
+Coke (Small)
+  Price: ₱ 99.00
+  Quantity: 1
+  Total Price: 99.00
+  Status: In Progress
+
+0003: Order Items
+  Food Code: B1
+  Meal Name: Yumburger
+Sprite (Small)
+Chocolate Pie
+  Price: ₱ 148.00
+  Quantity: 1
+  Total Price: 148.00
+  Status: In Progress
+
+0004: Order Items
+  Food Code: B1
+  Meal Name: Yumburger
+Sprite (Medium)
+Chocolate Pie
+  Price: ₱ 168.00
+  Quantity: 1
+  Total Price: 168.00
+  Status: Pending
+

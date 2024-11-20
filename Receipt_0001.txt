@@ -1,0 +1,15 @@
+Kentucky Avenue 
+Order Receipt
+Order Number: 0001
+Order Type: Dine In
+======================================
+Whopper
+Mountain Dew (Medium)
+Chocolate Fudge     1 x ₱258.00 = ₱258.00
+Yumburger
+Sprite (Small)
+Chocolate Pie     1 x ₱148.00 = ₱148.00
+======================================
+Total: ₱406.00
+Amount Paid: ₱450.00
+Change: ₱450.00
